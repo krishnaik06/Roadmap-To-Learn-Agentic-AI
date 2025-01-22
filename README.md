@@ -59,12 +59,12 @@
 
 ## Generative AI With Cloud AWS And GCP
 1. Generative AI With AWS
-<img src="https://github.com/user-attachments/assets/2372e74e-54b1-4809-ae3d-2b97f41feabc" alt="Alt Text" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/2372e74e-54b1-4809-ae3d-2b97f41feabc" alt="Alt Text" width="20" height="200">
 
 **Generative AI With AWS [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=2WOa4_3Bgtw&list=PLZoTAELRMXVP5zpBfH7pab4aB1LbmCM1z)**
 
 2. Generative AI With Azure Complete Tutorials
-<img src="https://github.com/user-attachments/assets/119eeeba-b7f4-445c-866c-d5f54c71d4c0" alt="Alt Text" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/119eeeba-b7f4-445c-866c-d5f54c71d4c0" alt="Alt Text" width="200" height="100">
 
 **Generative AI With Azure [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=3SRh2nzN2DM&t)**
 
