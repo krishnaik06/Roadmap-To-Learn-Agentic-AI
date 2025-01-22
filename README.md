@@ -43,7 +43,7 @@
 
 2. Phidata
 
-<img src="https://github.com/user-attachments/assets/18e3515d-5730-4de9-bb9f-3673fcc753e1" alt="Alt Text" width="200" height="100">
+<img src="https://github.com/user-attachments/assets/18e3515d-5730-4de9-bb9f-3673fcc753e1" alt="Alt Text" width="400" height="100">
 
 **Phidata [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.phidata.com/)**
 
