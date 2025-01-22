@@ -57,6 +57,14 @@
 
 **Autogen [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://microsoft.github.io/autogen/dev/index.html)**
 
+## Generative AI With Cloud AWS And GCP
+![image](https://github.com/user-attachments/assets/2372e74e-54b1-4809-ae3d-2b97f41feabc)
+**Generative AI With AWS [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=2WOa4_3Bgtw&list=PLZoTAELRMXVP5zpBfH7pab4aB1LbmCM1z)**
+
+
+
+
+
 
 
 
