@@ -27,3 +27,11 @@
 
 
 1. Generative AI Tutorials With Projects [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=HEHUpBO8UVc&list=PLA1lVIthbM1D5I6r5uY2K89X1KD2w5LNh&index=2)
+
+## 6. Best AGENTIC AI Frameworks to Learn
+
+1. Langchain And LangGraph
+<img src="https://github.com/user-attachments/assets/b6014d81-ecdd-44b9-94a5-ad78ad2629f0" alt="Alt Text" width="300" height="200">
+
+**Langchain And LangGraph [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.langchain.com/langgraph)**
+
