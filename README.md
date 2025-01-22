@@ -1,4 +1,4 @@
-# Roadmap-To-Learn-Agentic-AI
+![Red White Modern Youtube Thumbnail - 2025-01-22T112659 838](https://github.com/user-attachments/assets/a2e72990-447a-4aac-85b4-69699b36b9c3)# Roadmap-To-Learn-Agentic-AI
 
 ## Prerequisites
 
@@ -70,7 +70,7 @@
 
 ## Live Agentic AI And Generative AI With Cloud Bootcamp
 
-<img src="https://github.com/user-attachments/assets/119eeeba-b7f4-445c-866c-d5f54c71d4c0" alt="Alt Text" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/631e9c52-e385-4bab-a629-ab2167a199ee" alt="Alt Text" width="400" height="400">
 
 **Admission Link: https://learn.krishnaikacademy.com/l/a981029ab3**
 **Start Date January 25th, 2025**
