@@ -53,7 +53,7 @@
 
 4. Autogen
 <img src="https://github.com/user-attachments/assets/4cd2c677-ace6-4b40-8877-ab8c7dbcbc6f" alt="Alt Text" width="300" height="200">
-**Autogen [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://microsoft.github.io/autogen/dev//index.html)**
+**Autogen [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://microsoft.github.io/autogen/dev/index.html)**
 
 
 
