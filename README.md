@@ -65,7 +65,8 @@
 
 2. Generative AI With Azure Complete Tutorials
 <img src="https://github.com/user-attachments/assets/119eeeba-b7f4-445c-866c-d5f54c71d4c0" alt="Alt Text" width="200" height="200">
-**Generative AI With AWS [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=3SRh2nzN2DM&t)**
+
+**Generative AI With Azure [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=3SRh2nzN2DM&t)**
 
 
 
