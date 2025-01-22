@@ -42,17 +42,17 @@
 
 2. Phidata
 
-<img src="https://github.com/user-attachments/assets/18e3515d-5730-4de9-bb9f-3673fcc753e1" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/18e3515d-5730-4de9-bb9f-3673fcc753e1" alt="Alt Text" width="200" height="200">
 
 **Phidata [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.phidata.com/)**
 
 3. CrewAI
-<img src="https://github.com/user-attachments/assets/c0430873-fcdd-45b4-a014-5820690ffab2" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/c0430873-fcdd-45b4-a014-5820690ffab2" alt="Alt Text" width="200" height="200">
 
 **CrewAI [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.crewai.com/)**
 
 4. Autogen
-<img src="https://github.com/user-attachments/assets/4cd2c677-ace6-4b40-8877-ab8c7dbcbc6f" alt="Alt Text" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/4cd2c677-ace6-4b40-8877-ab8c7dbcbc6f" alt="Alt Text" width="200" height="200">
 
 **Autogen [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://microsoft.github.io/autogen/dev/index.html)**
 
