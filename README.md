@@ -21,7 +21,7 @@
 2. Indepth Transformer Explanation: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=3bPhDUSAUYI)
 
 
-## 5. Complete Generative AI Tutorials With End To End Projects
+## 4. Complete Generative AI Tutorials With End To End Projects
 <img src="https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/assets/20041231/ebaa03ec-4370-4ea0-989d-5314370cd2da" alt="Alt Text" width="300" height="200">
 <img src="https://github.com/user-attachments/assets/e3070185-ffd2-49f4-a159-825c7c2bda02" alt="Alt Text" width="300" height="200">
 <img src="https://github.com/user-attachments/assets/dbbba97d-c4f2-4ffe-8b8d-4b992005f3fc" alt="Alt Text" width="300" height="200">
@@ -34,7 +34,7 @@
 1. Generative AI Tutorials With Projects [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=HEHUpBO8UVc&list=PLA1lVIthbM1D5I6r5uY2K89X1KD2w5LNh&index=2)
 2. Agentic AI Playlist With Different Frameworks  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Qs_j5wRbVr8&list=PLZoTAELRMXVMBr14UQ30AFlnlQ7eL5wjl&index=1)
 
-## 6. Best AGENTIC AI Frameworks to Learn
+## 5. Best AGENTIC AI Frameworks to Learn
 
 1. Langchain And LangGraph
 <img src="https://github.com/user-attachments/assets/b6014d81-ecdd-44b9-94a5-ad78ad2629f0" alt="Alt Text" width="300" height="200">
@@ -57,7 +57,7 @@
 
 **Autogen [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://microsoft.github.io/autogen/dev/index.html)**
 
-## Generative AI With Cloud AWS And GCP
+## 6. Generative AI With Cloud AWS And GCP
 1. Generative AI With AWS
 <img src="https://github.com/user-attachments/assets/2372e74e-54b1-4809-ae3d-2b97f41feabc" alt="Alt Text" width="200" height="200">
 
