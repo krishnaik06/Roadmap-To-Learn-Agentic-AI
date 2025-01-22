@@ -68,7 +68,16 @@
 
 **Generative AI With Azure [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=3SRh2nzN2DM&t)**
 
+## Live Agentic AI And Generative AI With Cloud Bootcamp
 
+<img src="https://github.com/user-attachments/assets/119eeeba-b7f4-445c-866c-d5f54c71d4c0" alt="Alt Text" width="400" height="400">
+
+**Admission Link: https://learn.krishnaikacademy.com/l/a981029ab3**
+**Start Date January 25th, 2025**
+**Timing:3 PM to 6 PM IST (Saturday and Sunday)**
+**Duration: 4-5 months**
+**Mentors: Sourangshu Paul, Mayank Aggarwal, Krish Naik, and Sunny Savitha**
+**Reach out to Krish Naik's counselling team on 📞 +91-9111533440 in case of any queries we are there to help you out.**
 
 
 
