@@ -70,7 +70,7 @@
 
 ## Live Agentic AI And Generative AI With Cloud Bootcamp
 
-<img src="https://github.com/user-attachments/assets/631e9c52-e385-4bab-a629-ab2167a199ee" alt="Alt Text" width="400" height="400">
+<img src="https://github.com/user-attachments/assets/631e9c52-e385-4bab-a629-ab2167a199ee" alt="Alt Text" width="300" height="300">
 
 **Admission Link: https://learn.krishnaikacademy.com/l/a981029ab3**
 **Start Date January 25th, 2025**
