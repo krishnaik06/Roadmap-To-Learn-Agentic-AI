@@ -69,9 +69,14 @@
 
 **Generative AI With Azure [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=3SRh2nzN2DM&t)**
 
+## 7. Get started with the Model Context Protocol (MCP)
+<img src="https://github.com/user-attachments/assets/8a545f25-ac5b-4786-a5b1-dd1280f70c4c" alt="Alt Text" width="200" height="200">
+
+
 ## 2.0 Live Agentic AI And Generative AI With Cloud Bootcamp
 
 <img src="https://github.com/user-attachments/assets/631e9c52-e385-4bab-a629-ab2167a199ee" alt="Alt Text" width="500" height="300">
+**MCP [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://modelcontextprotocol.io/introduction)**
 
 1. **Admission Link: https://learn.krishnaikacademy.com/l/4a4d821d78**
 2. **Start Date May 10th, 2025**
