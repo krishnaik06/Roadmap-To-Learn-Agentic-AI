@@ -72,10 +72,14 @@
 ## 7. Get started with the Model Context Protocol (MCP)
 
 <img src="https://github.com/user-attachments/assets/8a545f25-ac5b-4786-a5b1-dd1280f70c4c" alt="Alt Text" width="400" height="100">
+
 **MCP [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://modelcontextprotocol.io/introduction)**
 
 
 ## 2.0 Live Agentic AI And Generative AI With Cloud Bootcamp
+
+![image](https://github.com/user-attachments/assets/6e87cbb7-5ba6-4c11-a30f-c6c3e4ee3c50)
+
 
 1. **Admission Link: https://learn.krishnaikacademy.com/l/4a4d821d78**
 2. **Start Date May 10th, 2025**
