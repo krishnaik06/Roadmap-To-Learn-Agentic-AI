@@ -70,7 +70,7 @@
 **Generative AI With Azure [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=3SRh2nzN2DM&t)**
 
 ## 7. Get started with the Model Context Protocol (MCP)
-<img src="https://github.com/user-attachments/assets/8a545f25-ac5b-4786-a5b1-dd1280f70c4c" alt="Alt Text" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/8a545f25-ac5b-4786-a5b1-dd1280f70c4c" alt="Alt Text" width="400" height="100">
 
 
 ## 2.0 Live Agentic AI And Generative AI With Cloud Bootcamp
