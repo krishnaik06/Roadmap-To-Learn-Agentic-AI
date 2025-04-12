@@ -75,7 +75,8 @@
 
 ## 2.0 Live Agentic AI And Generative AI With Cloud Bootcamp
 
-<img src="https://github.com/user-attachments/assets/631e9c52-e385-4bab-a629-ab2167a199ee" alt="Alt Text" width="500" height="300">
+![image](https://github.com/user-attachments/assets/7b6688f0-7319-477b-8b13-cebd5d4186b8)
+
 **MCP [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://modelcontextprotocol.io/introduction)**
 
 1. **Admission Link: https://learn.krishnaikacademy.com/l/4a4d821d78**
