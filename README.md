@@ -42,11 +42,11 @@
 
 **Langchain And LangGraph [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.langchain.com/langgraph)**
 
-2. Phidata
+2. Agno or Phidata
 
 <img src="https://github.com/user-attachments/assets/18e3515d-5730-4de9-bb9f-3673fcc753e1" alt="Alt Text" width="400" height="100">
 
-**Phidata [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.phidata.com/)**
+**Phidata [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/agno-agi/agno)**
 
 3. CrewAI
 <img src="https://github.com/user-attachments/assets/c0430873-fcdd-45b4-a014-5820690ffab2" alt="Alt Text" width="200" height="100">
@@ -69,13 +69,13 @@
 
 **Generative AI With Azure [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=3SRh2nzN2DM&t)**
 
-## Live Agentic AI And Generative AI With Cloud Bootcamp
+## 2.0 Live Agentic AI And Generative AI With Cloud Bootcamp
 
 <img src="https://github.com/user-attachments/assets/631e9c52-e385-4bab-a629-ab2167a199ee" alt="Alt Text" width="500" height="300">
 
-1. **Admission Link: https://learn.krishnaikacademy.com/l/a981029ab3**
-2. **Start Date January 25th, 2025**
-3. **Timing:3 PM to 6 PM IST (Saturday and Sunday)**
+1. **Admission Link: https://learn.krishnaikacademy.com/l/4a4d821d78**
+2. **Start Date May 10th, 2025**
+3. **Timing:8 AM to 11 AM IST (Saturday and Sunday)**
 4. **Duration: 4-5 months**
 5. **Mentors: Sourangshu Paul, Mayank Aggarwal, Krish Naik, and Sunny Savitha**
 6. **Reach out to Krish Naik's counselling team on 📞 +91-9111533440 in case of any queries we are there to help you out.**
