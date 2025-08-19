@@ -28,8 +28,7 @@
 <img src="https://github.com/user-attachments/assets/9e721c21-bba1-4840-9d9c-4992ba7e376f" alt="Alt Text" width="300" height="200">
 
 
-
-
+Detailed Playlist
 
 1. Generative AI Tutorials With Projects [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=HEHUpBO8UVc&list=PLA1lVIthbM1D5I6r5uY2K89X1KD2w5LNh&index=2)
 2. Agentic AI Tutorials [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=vVGXPRjtAJE&list=PLZoTAELRMXVPFd7JdvB-rnTb_5V26NYNO)
