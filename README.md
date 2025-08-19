@@ -58,16 +58,9 @@
 
 **Autogen [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://microsoft.github.io/autogen/dev/index.html)**
 
-## 6. Generative AI With Cloud AWS And GCP
-1. Generative AI With AWS
-<img src="https://github.com/user-attachments/assets/2372e74e-54b1-4809-ae3d-2b97f41feabc" alt="Alt Text" width="200" height="200">
+## 6. Dedicated Agentic AI And Generative AI Playlist With LangGraph And Langchain
+1. Agentic AI Tutorials [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=vVGXPRjtAJE&list=PLZoTAELRMXVPFd7JdvB-rnTb_5V26NYNO)
 
-**Generative AI With AWS [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=2WOa4_3Bgtw&list=PLZoTAELRMXVP5zpBfH7pab4aB1LbmCM1z)**
-
-2. Generative AI With Azure Complete Tutorials
-<img src="https://github.com/user-attachments/assets/119eeeba-b7f4-445c-866c-d5f54c71d4c0" alt="Alt Text" width="200" height="100">
-
-**Generative AI With Azure [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=3SRh2nzN2DM&t)**
 
 ## 7. Get started with the Model Context Protocol (MCP)
 
