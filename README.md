@@ -50,9 +50,10 @@ Detailed Playlist
 
 2. Agno or Phidata
 
-<img src="https://github.com/user-attachments/assets/18e3515d-5730-4de9-bb9f-3673fcc753e1" alt="Alt Text" width="400" height="100">
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/452265c4-d357-41a7-8b7b-65c9b52da4e2" />
 
-**Phidata [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/agno-agi/agno)**
+
+**Agno [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://github.com/agno-agi/agno)**
 
 3. CrewAI
 <img src="https://github.com/user-attachments/assets/c0430873-fcdd-45b4-a014-5820690ffab2" alt="Alt Text" width="200" height="100">
