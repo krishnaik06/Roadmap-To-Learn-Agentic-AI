@@ -32,10 +32,17 @@
 
 
 1. Generative AI Tutorials With Projects [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=HEHUpBO8UVc&list=PLA1lVIthbM1D5I6r5uY2K89X1KD2w5LNh&index=2)
-2. Agentic AI Playlist With Different Frameworks  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Qs_j5wRbVr8&list=PLZoTAELRMXVMBr14UQ30AFlnlQ7eL5wjl&index=1)
-3. MultiModal RAGs [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLQxDHpeGU14D6dm0rmAXhdLeLYlX2zk7p)
+2. Agentic AI Tutorials [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=vVGXPRjtAJE&list=PLZoTAELRMXVPFd7JdvB-rnTb_5V26NYNO)
+3. Agentic AI Playlist With Different Frameworks  [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=Qs_j5wRbVr8&list=PLZoTAELRMXVMBr14UQ30AFlnlQ7eL5wjl&index=1)
+4. MultiModal RAGs [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/playlist?list=PLQxDHpeGU14D6dm0rmAXhdLeLYlX2zk7p)
 
-## 5. Best AGENTIC AI Frameworks to Learn
+## 5. Get started with the Model Context Protocol (MCP)
+
+<img src="https://github.com/user-attachments/assets/8a545f25-ac5b-4786-a5b1-dd1280f70c4c" alt="Alt Text" width="400" height="100">
+
+**MCP [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://www.youtube.com/watch?v=-UQ6OZywZ2I&list=PLZoTAELRMXVPC8r1xF68Gksi241DAtMsK&index=1)**
+
+## 6. Best AGENTIC AI Frameworks to Learn
 
 1. Langchain And LangGraph
 <img src="https://github.com/user-attachments/assets/b6014d81-ecdd-44b9-94a5-ad78ad2629f0" alt="Alt Text" width="300" height="200">
@@ -58,15 +65,6 @@
 
 **Autogen [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://microsoft.github.io/autogen/dev/index.html)**
 
-## 6. Dedicated Agentic AI And Generative AI Playlist With LangGraph And Langchain
-1. Agentic AI Tutorials [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://python.langchain.com/docs/get_started/introduction) [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://www.youtube.com/watch?v=vVGXPRjtAJE&list=PLZoTAELRMXVPFd7JdvB-rnTb_5V26NYNO)
-
-
-## 7. Get started with the Model Context Protocol (MCP)
-
-<img src="https://github.com/user-attachments/assets/8a545f25-ac5b-4786-a5b1-dd1280f70c4c" alt="Alt Text" width="400" height="100">
-
-**MCP [![YouTube](https://img.shields.io/badge/documentation-link-green)](https://modelcontextprotocol.io/introduction)**
 
 
 ## 2.0 Live Agentic AI And Generative AI With Cloud Bootcamp
